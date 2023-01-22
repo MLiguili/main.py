@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6768222-43c6-4cdf-84e9-0b4e8f4deb04" name="Changes" comment="" />
+    <list default="true" id="f6768222-43c6-4cdf-84e9-0b4e8f4deb04" name="Changes" comment="Preparo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculo Molduras.py" beforeDir="false" afterPath="$PROJECT_DIR$/Calculo Molduras.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +20,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.py" root0="SKIP_INSPECTION" />
   </component>
@@ -24,6 +30,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2JZ77IvJTANXhUsD999wlFC9k8Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,7 +52,7 @@
       <recent name="C:\Users\marce\PycharmProjects\Jogos" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Sorteador">
+  <component name="RunManager" selected="Python.Calculo Molduras">
     <configuration name="Calculo Molduras" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Atividros" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -132,9 +139,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Calculo Molduras" />
         <item itemvalue="Python.Sorteador" />
         <item itemvalue="Python.scratch_4" />
-        <item itemvalue="Python.Calculo Molduras" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +154,19 @@
       <option name="presentableId" value="Default" />
       <updated>1672273582762</updated>
     </task>
+    <task id="LOCAL-00001" summary="Preparo">
+      <created>1674352776526</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674352776526</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Preparo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Preparo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
