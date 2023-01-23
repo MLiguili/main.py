@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6768222-43c6-4cdf-84e9-0b4e8f4deb04" name="Changes" comment="Preparo">
+    <list default="true" id="f6768222-43c6-4cdf-84e9-0b4e8f4deb04" name="Changes" comment="Lógica funcional sem contar o numero de quadros">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Calculo Molduras.py" beforeDir="false" afterPath="$PROJECT_DIR$/Calculo Molduras.py" afterDir="false" />
     </list>
@@ -35,18 +35,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/marce/PycharmProjects/Atividros"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/marce/PycharmProjects/Atividros&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "Python"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Python&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\marce\PycharmProjects\Jogos" />
@@ -161,12 +161,41 @@
       <option name="project" value="LOCAL" />
       <updated>1674352776526</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Lógica funcional sem contar o numero de quadros">
+      <created>1674355425033</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674355425033</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Lógica funcional sem contar o numero de quadros">
+      <created>1674355433210</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674355433210</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Lógica funcional sem contar o numero de quadros">
+      <created>1674355490342</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674355490342</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Lógica funcional sem contar o numero de quadros">
+      <created>1674355553328</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674355553328</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Preparo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Preparo" />
+    <MESSAGE value="Lógica funcional sem contar o numero de quadros" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lógica funcional sem contar o numero de quadros" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
